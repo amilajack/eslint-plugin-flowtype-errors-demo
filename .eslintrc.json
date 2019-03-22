@@ -1,0 +1,3 @@
+{
+  "extends": ["plugin:flowtype-errors/recommended"]
+}

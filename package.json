@@ -1,0 +1,21 @@
+{
+  "name": "eslint-plugin-flowtype-errors-demo",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.15.1"
+  },
+  "scripts": {
+    "lint": "eslint .; exit 0",
+    "test": "yarn lint"
+  },
+  "renovate": {
+    "extends": [
+      "bliss"
+    ]
+  },
+  "devDependencies": {
+    "eslint-plugin-flowtype-errors": "^4.0.0",
+    "flow-bin": "^0.95.1"
+  }
+}
