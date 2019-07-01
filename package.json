@@ -16,6 +16,6 @@
   },
   "devDependencies": {
     "eslint-plugin-flowtype-errors": "^4.0.0",
-    "flow-bin": "^0.98.1"
+    "flow-bin": "^0.102.0"
   }
 }
