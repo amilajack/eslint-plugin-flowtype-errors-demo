@@ -18,10 +18,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@babel/runtime@^7.0.0":
-  version "7.4.2"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.4.2.tgz#f5ab6897320f16decd855eed70b705908a313fe8"
-  integrity sha512-7Bl2rALb7HpvXFL7TETNzKSAeBVCPHELzc0C//9FCxN8nsiueWSJBqaF+2oIJScyILStASR/Cx5WMkXGYTiJFA==
+"@babel/runtime@^7.4.2":
+  version "7.7.7"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.7.7.tgz#194769ca8d6d7790ec23605af9ee3e42a0aa79cf"
+  integrity sha512-uCnC2JEVAu8AKB5do1WRIsvrdJ0flYx/A/9f/6chdacnEZ7LmavjdsDXr5ksYBegxtuTPR5Va9/+13QF/kFkCA==
   dependencies:
     regenerator-runtime "^0.13.2"
 
@@ -187,12 +187,12 @@ escape-string-regexp@^1.0.5:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-eslint-plugin-flowtype-errors@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-flowtype-errors/-/eslint-plugin-flowtype-errors-4.0.0.tgz#0802e1dadcb22af214dd9020f84bd7af1caa0b50"
-  integrity sha512-VSNkdkBOkHzoN+8BrVSc6c3psOVw4UPuFiCYpqhQ10rrieOuX2FscqQJ8ba0185asKCx0Of0qQ4MR9RqILfHvw==
+eslint-plugin-flowtype-errors@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-flowtype-errors/-/eslint-plugin-flowtype-errors-4.1.0.tgz#6edb0837001f70001ceeb33f0541bd2b8eb8e6c8"
+  integrity sha512-79Hy4ITWwXF7J8/N7jZG6PN6O+kL8oUCZgQaPf4eT8UvSI0x10WACEDzfxJgG1qW3/FN/lT6U1e7K/7fpIWPKw==
   dependencies:
-    "@babel/runtime" "^7.0.0"
+    "@babel/runtime" "^7.4.2"
     find-up "^3.0.0"
     slash "^2.0.0"
 
